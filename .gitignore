@@ -10,3 +10,11 @@ icc.xcodeproj/project.xcworkspace/xcuserdata/*
 /Classes/CardIOIccVersion.h
 /Release/SampleApp/ScanExample.xcodeproj/project.xcworkspace/
 /Release/SampleApp/ScanExample.xcodeproj/xcuserdata/
+
+xcschememanagement.plist
+
+ScanExample.xcscheme
+
+WorkspaceSettings.xcsettings
+
+UserInterfaceState.xcuserstate
