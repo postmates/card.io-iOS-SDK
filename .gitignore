@@ -5,8 +5,6 @@ icc.xcodeproj/project.xcworkspace/xcuserdata/*
 **/*.pbxuser
 *.pyc
 .baler_env
-/icc.xcodeproj/project.xcworkspace/xcshareddata/
-/icc.xcodeproj/project.xcworkspace/xcshareddata/icc.xccheckout
 /Classes/CardIOIccVersion.h
 /Release/SampleApp/ScanExample.xcodeproj/project.xcworkspace/
 /Release/SampleApp/ScanExample.xcodeproj/xcuserdata/
